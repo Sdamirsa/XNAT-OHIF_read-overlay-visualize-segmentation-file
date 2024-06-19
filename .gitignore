@@ -1,0 +1,5 @@
+Sample_Data/
+.conda/
+.vscode/
+streamlit_cache.pkl
+streamlit_logs.txt
