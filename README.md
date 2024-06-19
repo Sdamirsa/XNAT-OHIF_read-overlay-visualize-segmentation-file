@@ -24,3 +24,4 @@ The logic behind this is that every object (series or slice) has a referrenced U
     - In SEG (segmentation file): (0008, 1115) with the name of Referenced Series Sequence has an object of (0020, 000E) with the name of Series Instance UID. There is another similar tag of series instance UID in the segmentation file but this is the UID for the segmenation itself and not the corrosponding imaging series.
     - In original CT: (0020, 000E) with the name of Series Instance UID
 
+# Video in Farsi Introducing the Logic and Soloution: [Link to YT Video](https://www.youtube.com/watch?v=OcpYDVVd0O4)
